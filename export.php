@@ -26,7 +26,7 @@ header("Expires:0");
             $tgla = $_POST['tgla'];
             $tglb = $_POST['tglb'];
 
-            $query = mysqli_query($config, "SELECT * FROM tamu where tanggal BETWEEN '$tgla' AND '$tglb' order by id desc");
+            $query = mysqli_query($config, "SELECT * FROM tamu where tanggal BETWEEN '$tgla' AND '$tglb' order by tanggal asc");
             $no = 1;
             while($data = mysqli_fetch_array($query)){
         ?>

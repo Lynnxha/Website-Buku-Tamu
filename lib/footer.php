@@ -1,4 +1,4 @@
-</div>
+    </div>
 
 <!-- Bootstrap core JavaScript-->
 <script src="assets/vendor/jquery/jquery.min.js"></script>
@@ -18,5 +18,4 @@
 <script src="assets/js/demo/datatables-demo.js"></script>
 
 </body>
-
 </html>

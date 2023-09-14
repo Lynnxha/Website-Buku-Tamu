@@ -29,7 +29,7 @@
                         <button class="btn btn-outline-primary form-control" name="tampilkan"><i class='bx bx-search'></i> Tampilkan</button>
                     </div>
                     <div class="col-md-2">
-                        <a href="admin.php" class="btn btn-outline-warning form-control" name="tampilkan"><i class='bx bx-arrow-back'></i> Kemballi</a>
+                        <a href="admin" class="btn btn-outline-warning form-control" name="tampilkan"><i class='bx bx-arrow-back'></i> Kemballi</a>
                     </div>
                 </div>
             </form>
